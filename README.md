@@ -1,4 +1,4 @@
-# provider_task
+# task
 
 A new Flutter project.
 
